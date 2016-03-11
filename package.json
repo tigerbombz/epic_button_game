@@ -1,0 +1,9 @@
+{
+  "name": "Epic_button_game",
+  "dependencies": {
+    "ejs": "1.0.0",
+    "body-parser": "^1.13.3",
+    "express": "~4.10.0",
+    "socket.io": "^1.4.5"
+  }
+}
